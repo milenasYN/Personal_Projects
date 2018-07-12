@@ -10,4 +10,5 @@ Le but de ce travail est de mettre en pratique les concepts d’interface graphi
   
   Pour plus de détail, regarder le lien suivant: http://ericbeaudry.ca/INF3105/tp3/.
 
-- 
+- MATLAB_Projets:
+Résoudre les problèmes mathématiques avec des méthodes comme Acceptation-Rejet, Monte-Carlo; simuler les mouvements markoviens et browniens afin de les utiliser pour prévenir des probabilités. 
