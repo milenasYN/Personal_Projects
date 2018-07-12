@@ -1,3 +1,3 @@
 Descriptions:
-Java_
-C++_
+#Java_Gestion_Inventaire_Par_Interface_Graphique:
+#
