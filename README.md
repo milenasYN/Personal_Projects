@@ -16,3 +16,5 @@ Résoudre les problèmes mathématiques avec des méthodes comme Acceptation-Rej
 - SAS_Projets:
   1. Projet1: Illustrer l’effet d’une erreur de mesure sur la variable indépendante dans un modèle de régression en utilisant le langage macro de SAS et Proc Reg. 
   2. Projet2: Estimer l’erreur standard de la moyenne par la méthode bootstrap en utilisant 1000x250 observations simulées de la loi normale de N(100, 25); estimer l’erreur standard de la moyenne par la méthode du Jackknife en utilisant 250x249 observations simulées de la loi normale de N(100, 25).
+  3. Projet3: Identifier les données aberrantes ou influentes présentes dans un jeu de données en utilisant les différents modèles de régression.
+  4. Appliquer les techniques de l’analyse multivariée (analyse des composantes principales, analyse factorielle, analyse discriminante) sur des jeux de données multivariés réels.
