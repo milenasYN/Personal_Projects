@@ -12,3 +12,7 @@ Le but de ce travail est de mettre en pratique les concepts d’interface graphi
 
 - MATLAB_Projets:
 Résoudre les problèmes mathématiques avec des méthodes comme Acceptation-Rejet, Monte-Carlo; simuler les mouvements markoviens et browniens afin de les utiliser pour prévenir des probabilités. 
+
+- SAS_Projets:
+  1. Projet1: Illustrer l’effet d’une erreur de mesure sur la variable indépendante dans un modèle de régression en utilisant le langage macro de SAS et Proc Reg. 
+  2. Projet2: Estimer l’erreur standard de la moyenne par la méthode bootstrap en utilisant 1000x250 observations simulées de la loi normale de N(100, 25); estimer l’erreur standard de la moyenne par la méthode du Jackknife en utilisant 250x249 observations simulées de la loi normale de N(100, 25).
